@@ -1,0 +1,1 @@
+# Impact-of-Mass-Shootings-on-Gun-Manufactures-Returns
