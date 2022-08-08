@@ -10,8 +10,10 @@ Final Presentation Slides
 Final Report
 Final Video Presentation
 
-Open the RMD file from Deliverables-> Final Code -> Gun_Stocks_Vs_Mass_Shootings_V4.RMD
-Download the dataset, Deliverables->Final Code -> US_Mass_Shootings_May_24_2022.csv
+Open the RMD file from Deliverables-> Final Code -> Gun_Stocks_Vs_Mass_Shootings_V4.RMD  
+
+Download the dataset, Deliverables->Final Code -> US_Mass_Shootings_May_24_2022.csv  
+
 The stock prices data are coming from tidyquant package, and the market capitalization data are coming from rvest.
 Run the RMD file in RStudio or an IDE of your choice.
 
