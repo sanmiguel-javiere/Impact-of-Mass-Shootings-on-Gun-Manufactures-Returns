@@ -16,8 +16,9 @@ The stock prices data are coming from tidyquant package, and the market capitali
 Run the RMD file in RStudio or an IDE of your choice.
 
 YouTube
-Progress Report Presentation - https://youtu.be/SxUDtQWAn7s
-Final Report Presentation - https://youtu.be/WZl0kLsJqJU
+Progress Report Presentation - https://youtu.be/SxUDtQWAn7s  
+
+Final Report Presentation - https://youtu.be/WZl0kLsJqJU  
 
 Project Information
 We analyze the impact of mass shooting events on the US gun manufacturers stocks. General perception is that gun sales will increase after the mass shooting events. In this study, we want to analyze if there’s a real correlation between mass shootings events on gun company stocks using the analytical tools we learnt from this course. This could be very valuable information for Portfolio managers, Hedge funds, High frequency traders for risk management within their portfolios.
